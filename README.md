@@ -1,5 +1,3 @@
-Markdown
-
 # Matrix Operation Tool
 
 A professional desktop application built with Python and Tkinter that performs complex linear algebra operations. This tool provides a user-friendly graphical interface to handle matrix calculations without needing to write code.
